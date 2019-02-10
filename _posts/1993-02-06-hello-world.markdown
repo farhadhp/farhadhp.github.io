@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "سلام دنیا!"
-date:   2019-02-06 19:36:31 +0330
-categories: روزنوشت
+title:  "Hello world!"
+date:   1993-02-06 20:34:03 +0330
+categories: blog update
 ---
-سلام
+## hello world
 
-در این تاریخ بنده حقیر دیده به جهان گشودم.
-
-من از بدو تولد وبلاگ نویس بودم! (الکی مثلا)
+My name is `Farhad` and this is my first post.
 
