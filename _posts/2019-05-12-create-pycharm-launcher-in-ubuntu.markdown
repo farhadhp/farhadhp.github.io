@@ -16,3 +16,13 @@ categories: python pycharm
 
 ![Create Pycharm Launcher in Ubuntu](/uploads/2019/05/pycharm-01.png)
 
+- Check the box if you want the launcher for all users.
+
+- If you Check the box i.e “Create entry for all users”, you will be asked for your password.
+
+- A message should appear informing you that it was successful.
+
+- Now Restart Pycharm application and you will find Pycharm in Unity dash and Application launcher.
+
+source: [theviralcode - Vivek Joshi](https://theviralcode.com/2017/06/13/create-pycharm-launcher-in-ubuntu/)
+
