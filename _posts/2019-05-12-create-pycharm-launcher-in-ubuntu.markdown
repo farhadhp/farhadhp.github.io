@@ -14,5 +14,5 @@ categories: python pycharm
 
 - This type of window will open up.
 
-![Create Pycharm Launcher in Ubuntu](/uploads/2019/05/pycharm-01.jpg)
+![Create Pycharm Launcher in Ubuntu](/uploads/2019/05/pycharm-01.png)
 
